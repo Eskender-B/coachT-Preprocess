@@ -31,10 +31,10 @@ The preprocessing is done in the following order:
 
 * After slicing data is found at [sliced/](sliced/)
 * To see how well you sliced see the picture in the corresponding folder.
-* Here is one example: ![Slicing](sliced/backhand-standard/backhand-standard.jpg)
+* Here is one example: a swing is located between two red lines ![Slicing](sliced/backhand-standard/backhand-standard.jpg)
 * After sampling sampled data is found [sampled/](sampled/)
 * To see plot result of sampled data see [sampled/figure/](sampled/figure/)
-* Here is one example: ![Sampling](sampled/figure/train/backhand-standard/swing10.jpg)
+* Here is one example: sampled points are shown in red cross ![Sampling](sampled/figure/train/backhand-standard/swing10.jpg)
 * Final Result is at [sampled/data/](sampled/data/)
 
 ## To Do
